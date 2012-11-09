@@ -1,8 +1,8 @@
 Gem::Specification.new do |s|
   s.name = "bootstrap-sass"
   s.version = '2.2.1.0'
-  s.authors = ["Rian Triharyana"]
-  s.email = 'rtriharyana@gmail.com'
+  s.authors = ["Thomas McDonald"]
+  s.email = 'tom@conceptcoding.co.uk'
   s.summary = "This is Ice House fork of bootstrap-sass"
   s.homepage = "http://github.com/iyay/bootstrap-sass"
 
